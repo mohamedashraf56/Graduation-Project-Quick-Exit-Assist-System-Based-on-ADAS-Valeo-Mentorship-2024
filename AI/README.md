@@ -11,7 +11,7 @@ This Partion contains the files and code related to the AI-based object detectio
 
 
 
-https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/9584eb86-2b76-47c8-aa50-56c20ee05654
+https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/623ffae6-498d-46c1-a1a8-55c129e25e5a
 
 ![Screenshot from 2024-01-02 17-03-39](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/9e6a9e74-bfde-4fb3-84bf-7b14139418e5)
 
