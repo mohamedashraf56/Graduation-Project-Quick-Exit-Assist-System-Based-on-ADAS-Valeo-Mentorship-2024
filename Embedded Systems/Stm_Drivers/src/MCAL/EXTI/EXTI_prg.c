@@ -228,7 +228,7 @@ void MEXTI_vSetCallBack(void (*ptr)(void),uint8 Line_Id)
 	case EXTI13_ID :
 	case EXTI14_ID :
 	case EXTI15_ID :
-		EXTI_LINE0_CallBack[5] = ptr;
+		EXTI_LINE0_CallBack[6] = ptr;
 		break;
 	default :
 		// wrong configuration
