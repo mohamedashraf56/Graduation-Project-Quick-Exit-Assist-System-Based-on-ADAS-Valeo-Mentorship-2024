@@ -1,0 +1,60 @@
+ /******************************************************************************
+ *
+ * Module: Common - Macros
+ *
+ * File Name: Common_Macros.h
+ *
+ * Description: Commonly used Macros
+ *
+ * Author: Mohamed Tarek
+ *
+ *******************************************************************************/
+
+#ifndef COMMON_MACROS
+#define COMMON_MACROS
+
+/* Set a certain bit in any register */
+#define SET_BIT(REG,BIT) (REG|=(1<<BIT))
+
+/* Clear a certain bit in any register */
+#define CLEAR_BIT(REG,BIT) (REG&=(~(1<<BIT)))
+
+/* Toggle a certain bit in any register */
+#define TOGGLE_BIT(REG,BIT) (REG^=(1<<BIT))
+
+/* Rotate right the register value with specific number of rotates */
+#define ROR(REG,num) ( REG= (REG>>num) | (REG<<(8-num)) )
+
+/* Rotate left the register value with specific number of rotates */
+#define ROL(REG,num) ( REG= (REG<<num) | (REG>>(8-num)) )
+
+/* Check if a specific bit is set in any register and return true if yes */
+#define BIT_IS_SET(REG,BIT) ( REG & (1<<BIT) )
+
+/* Check if a specific bit is cleared in any register and return true if yes */
+#define BIT_IS_CLEAR(REG,BIT) ( !(REG & (1<<BIT)) )
+
+#define GET_BIT(REG,BIT) ( ( REG & (1<<BIT) ) )
+
+
+// enum for insert ones and zeros
+
+enum
+{
+	one_one = 0b1,
+	two_one = 0b11,
+	three_one = 0b111,
+	four_one = 0b1111,
+	five_one = 0b11111,
+	six_one = 0b111111,
+	seven_one = 0b1111111,
+	eight_one  = 0b11111111,
+	nine_one =   0b111111111,
+	ten_one =    0b1111111111,
+};
+
+#define INSERST_BITS(REG,VALUE,RANGE_BITS,BIT_LOCATION) REG =((REG) & ~((RANGE_BITS)<<BIT_LOCATION )) | (((VALUE & RANGE_BITS)<< BIT_LOCATION))
+
+#define insert_bit(REG,BIT,VALUE)   REG = (( (REG) & ~(1<<(BIT))) | ((VALUE & 1)<<(BIT)))
+
+#endif
