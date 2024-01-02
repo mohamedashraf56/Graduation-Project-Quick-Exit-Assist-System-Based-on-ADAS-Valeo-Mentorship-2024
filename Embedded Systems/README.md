@@ -1,7 +1,7 @@
-#### Embedded System for Quick Exit Assist System and Car Collision Avoidance
+## Embedded System for Quick Exit Assist System and Car Collision Avoidance
 
 This Part focuses on the embedded system part of our graduation project, which aims to achieve car collision avoidance using Vehicle-to-Vehicle (V2V) communication. Additionally,
-## the core of the project involves the development of a Quick Exit Assist System designed specifically for rollover and drowning accidents.
+#### the core of the project involves the development of a Quick Exit Assist System designed specifically for rollover and drowning accidents.
 
 Within this partion, you will find the necessary files and code related to the embedded system implementation, including communication protocols, sensor integration, decision-making algorithms, and system architecture.
 
