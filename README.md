@@ -3,16 +3,19 @@
 
 ![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/06de9c11-a616-48f1-987a-828f10b65613)
 
-# Team Members 
+![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/c7df62f6-2eea-4cad-a58e-851dac5a30be)
 
-## Mohamed Ashraf Ahmed
-## Saif Aldin Ashraf Ahmed
-## Abdelrahman Mamdouh Fathy
-## Fatima Alzahraa Mohamed
-## Ahmed Mahmoud Khalaf
-## Ahmed Mahmoud Thabet
-## Mahmoud Mohamed Galal
-## Rana Reda Ibrahim
-## Abdelrahman Mohamed Ibrahim
-## Hossam Mohamed Eyada 
+## Supervisors 
+ ## A.Prof Ahmed Magdy 
 
+![a magdy](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/19bc303f-8850-41d0-8b94-b93602105432)
+
+
+## Dr. Ibrahim Sobh 
+
+![ibrahim](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/563e2607-623d-45c7-a172-d50c8a8d7c53)
+
+
+## Engineer. Mohamed Osama 
+
+![mohamed osama](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/48b02022-c6b7-4647-80c3-f2934f8175f5)
