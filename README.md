@@ -5,6 +5,13 @@
 
 ![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/c7df62f6-2eea-4cad-a58e-851dac5a30be)
 
+# Main Problem 
+
+The primary motivation behind this project is the global threat posed by road accidents, specifically rollover and drowning accidents. These types of accidents often result in severe injuries and fatalities due to the difficulty of escaping a submerged or overturned vehicle. The project aims to address this problem by developing a system that can assist drivers in quickly and safely exiting the vehicle during such incidents 100 million dollars losses .
+“road traffic crashes cost most countries 3% of their Gross Domestic Product (GDP).” 
+![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/d1b2dd40-d952-4469-92d7-5c772fdafa3c)
+
+
 ## Supervisors 
  ## A.Prof Ahmed Magdy 
 
