@@ -8,8 +8,15 @@
 # Main Problem 
 
 The primary motivation behind this project is the global threat posed by road accidents, specifically rollover and drowning accidents. These types of accidents often result in severe injuries and fatalities due to the difficulty of escaping a submerged or overturned vehicle. The project aims to address this problem by developing a system that can assist drivers in quickly and safely exiting the vehicle during such incidents with 100 million dollars in losses.
-“road traffic crashes cost most countries 3% of their Gross Domestic Product (GDP).” .Every day, around 3,700 people die in road accidents a total of 1.35 million deaths annually. 
+“road traffic crashes cost most countries 3% of their Gross Domestic Product (GDP).”.Every day, around 3,700 people die in road accidents a total of 1.35 million deaths annually. 
 
+
+# Project Brochure
+
+![WhatsApp Image 2024-07-04 at 21 29 49_b19c71c6](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/43b24ff1-abd8-4219-99c1-46384f1e79f0)
+
+
+![WhatsApp Image 2024-07-04 at 21 29 49_7f310e0c](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/ade16b3b-7aa3-4c0f-a86e-cd6c0e6994f4)
 
 
 ## Supervisors 
