@@ -2,3 +2,17 @@
 ## This repository houses our graduation project focused on Advanced Driver Assistance Systems (ADAS) using Embedded Linux, with support from Valeo. 
 
 ![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/06de9c11-a616-48f1-987a-828f10b65613)
+
+# Team Members 
+
+Mohamed Ashraf Ahmed
+Saif Aldin Ashraf Ahmed
+Abdelrahman Mamdouh Fathy
+Fatima Alzahraa Mohamed
+Ahmed Mahmoud Khalaf
+Ahmed Mahmoud Thabet
+Mahmoud Mohamed Galal
+Rana Reda Ibrahim
+Abdelrahman Mohamed Ibrahim
+Hossam Mohamed Eyada 
+![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/d3753154-ae27-4b03-bb40-51282e40b496)
