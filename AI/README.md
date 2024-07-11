@@ -1,4 +1,4 @@
-## AI Object Detection 
+# AI Object Detection 
 
 This Partion contains the files and code related to the AI-based object detection components of our graduation project on Advanced Driver Assistance Systems (ADAS) using Embedded Linux, with support from Valeo. These components aim to enhance vehicle safety by detecting objects. Feel free to explore the repository for the specific files and code related to these functionalities.
 
@@ -18,5 +18,53 @@ This Partion contains the files and code related to the AI-based object detectio
 
 https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/623ffae6-498d-46c1-a1a8-55c129e25e5a
 
-![Screenshot from 2024-01-02 17-03-39](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/9e6a9e74-bfde-4fb3-84bf-7b14139418e5)
+
+## Transition to Custom Model
+we transitioned from the pre-trained YOLOv8 Nano to a custom model to enhance system performance. By incorporating domain-specific optimizations, we refined accuracy and efficiency for our specific application contexts!
+
+
+## Object Detection Custom Model
+
+Objective: Enhance Advanced Driver Assistance Systems (ADAS) by accurately identifying critical objects on the road.
+
+Model Focus: Detect six essential classes:
+Car , Person ,Speed limit,Stop , Traffic cone , Traffic light
+
+![image](https://github.com/user-attachments/assets/85033cc8-5f28-48ad-a253-26ab15f0aff2)
+
+## Dataset
+
+#### We collected 7,000 diverse images representing various traffic conditions, times of day, and weather scenarios. The balanced distribution of approximately 1,200 images per class captures the real-world variability and complexity of traffic situations.
+
+
+## Labelling
+
+#### Labeling process using Roboflow.
+![image](https://github.com/user-attachments/assets/11a240f2-58ff-4970-a1cd-b1fe1b535945)          ![image](https://github.com/user-attachments/assets/914025eb-b69d-4691-98ef-4f6cf3d1f9e5)
+
+
+## Dataset Augmentation
+
+#### To further enhance the dataset, we applied various augmentation techniques.
+ These techniques included: 
+
+•Rotation: Rotating images to simulate different camera angles. 
+•Scaling: Adjusting the size of the objects to reflect varying distances. 
+•Brightness and Contrast Adjustments: Modifying lighting conditions to mimic different times of day and weather conditions.
+
+
+![image](https://github.com/user-attachments/assets/18244939-527a-4e65-82b4-fb234eff3ddf)     ![image](https://github.com/user-attachments/assets/1404b26d-2a0a-44f4-9816-184f148a0e07)   ![image](https://github.com/user-attachments/assets/67884024-9bce-4a4a-8d11-5c13f20a7cc1)
+
+
+## Results
+
+![image](https://github.com/user-attachments/assets/4071c547-ccc6-4ee5-a6fe-073edb087ab6)     ![image](https://github.com/user-attachments/assets/58ebba10-e912-4c83-94ba-0cc1507c9902)
+
+
+## Confusion Matrix
+
+![image](https://github.com/user-attachments/assets/4a2719ed-3a99-498e-b056-9266a3354abe)
+
+
+
 
