@@ -2,7 +2,7 @@
 
 This Partion contains the files and code related to the AI-based object detection components of our graduation project on Advanced Driver Assistance Systems (ADAS) using Embedded Linux, with support from Valeo. These components aim to enhance vehicle safety by detecting objects. Feel free to explore the repository for the specific files and code related to these functionalities.
 
-#### 1- Pre-Trained Model
+# 1- Pre-Trained Model
 
 ## we began by utilizing a pre-trained YOLOv8 Nano model trained on the COCO dataset. 
 
@@ -19,7 +19,7 @@ This Partion contains the files and code related to the AI-based object detectio
 https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/623ffae6-498d-46c1-a1a8-55c129e25e5a
 
 
-## Transition to Custom Model
+# 2- Transition to Custom Model
 we transitioned from the pre-trained YOLOv8 Nano to a custom model to enhance system performance. By incorporating domain-specific optimizations, we refined accuracy and efficiency for our specific application contexts!
 
 
