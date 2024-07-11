@@ -4,9 +4,9 @@ This Partion contains the files and code related to the AI-based object detectio
 
 #### 1- Pre-Trained Model
 
-# we began by utilizing a pre-trained YOLOv8 Nano model trained on the COCO dataset. 
+## we began by utilizing a pre-trained YOLOv8 Nano model trained on the COCO dataset. 
 
-# This initial pre-training phase gave our model a broad understanding of various object categories and real-world image variations. To tailor its knowledge to our specific application domain, we fine-tuned the model, ensuring optimal performance and accuracy.
+#### This initial pre-training phase gave our model a broad understanding of various object categories and real-world image variations. To tailor its knowledge to our specific application domain, we fine-tuned the model, ensuring optimal performance and accuracy.
 
 
 ![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/9c3fcb11-d0f1-43e8-b215-221daf5d5919)
