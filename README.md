@@ -21,7 +21,9 @@ The primary motivation behind this project is the global threat posed by road ac
 
 # Project Overview Website.
 
-![WhatsApp Image 2024-07-11 at 16 26 38_88ddb3fe](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0566ad89-4240-4021-9d5f-ee078dd50e89)
+![WhatsApp Image 2024-07-11 at 16 26 38_88ddb3fe](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0566ad89-4240-4021-9d5f-ee078dd50e89)    
+
+Link: https://gpadads.mystrikingly.com/
 
 
 # Project Overview diagram 
