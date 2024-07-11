@@ -46,3 +46,8 @@ Link: https://gpadads.mystrikingly.com/
 ## Engineer. Mohamed Osama 
 
 ![mohamed osama](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/48b02022-c6b7-4647-80c3-f2934f8175f5)
+
+
+We're thrilled to have scored an # A on our graduation project! This success has us eagerly anticipating our next steps and future accomplishments.
+
+![WhatsApp Image 2024-07-11 at 16 59 59_60603e8b](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/c8be83d6-0503-4b35-893c-a8f961d96a7d)
