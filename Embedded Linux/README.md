@@ -1,4 +1,8 @@
-## Testing the DHT11 Output without GUI on the terminal 
+## GUI Using Qt5
 
-![Screenshot from 2024-03-03 05-59-20](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/359f7f3f-ff1f-4652-a6b7-8591170ac55d)
+![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/062099a8-075e-4887-8d22-8260f11cc191)
+
+## Tkinter Dashboard 
+
+![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/7de8f361-cc4a-456b-bb54-e25b387beceb)
 
