@@ -1,5 +1,5 @@
-# GP-ADAS(Quick Exit sys)-Using-Embedded-Linux
-## This repository houses our graduation project focused on Advanced Driver Assistance Systems (ADAS) using Embedded Linux, with support from Valeo GP mentorship Program. 
+#  Quick Exit Assist System for Rollover and Submersion Accidents Based on ADAS 
+## This repository houses our graduation project focused on Advanced Driver Assistance Systems (ADAS) using Embedded Linux, with Valeo GP mentorship Program 2024. 
 
 ![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/06de9c11-a616-48f1-987a-828f10b65613)
 
@@ -19,14 +19,21 @@ The primary motivation behind this project is the global threat posed by road ac
 ![WhatsApp Image 2024-07-04 at 21 29 49_7f310e0c](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/ade16b3b-7aa3-4c0f-a86e-cd6c0e6994f4)
 
 
-# Early Prototype Demo 
-
-
-
 # Project Overview Website.
 
+![WhatsApp Image 2024-07-11 at 16 26 38_88ddb3fe](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0566ad89-4240-4021-9d5f-ee078dd50e89)    
+
+## Link: https://gpadads.mystrikingly.com/
 
 
+# Project Overview diagram 
+
+![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0715639b-8a49-4df6-bda0-0c9af2db99c9)
+
+
+# Early Demo Prototype Video 
+
+https://drive.google.com/file/d/1hBVOs77UVqFtAuO3Ie9uEbpaDgG7v0hE/view?usp=sharing
 
 ## Supervisors 
  ## A.Prof Ahmed Magdy 
@@ -42,3 +49,8 @@ The primary motivation behind this project is the global threat posed by road ac
 ## Engineer. Mohamed Osama 
 
 ![mohamed osama](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/48b02022-c6b7-4647-80c3-f2934f8175f5)
+
+
+# We're thrilled to have scored an A+ on our graduation project! This success has us eagerly anticipating our next steps and future accomplishments.
+
+![WhatsApp Image 2024-07-11 at 16 59 59_60603e8b](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/c8be83d6-0503-4b35-893c-a8f961d96a7d)
