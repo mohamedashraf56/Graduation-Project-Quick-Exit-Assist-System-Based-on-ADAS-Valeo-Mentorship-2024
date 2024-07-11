@@ -23,7 +23,7 @@ The primary motivation behind this project is the global threat posed by road ac
 
 ![WhatsApp Image 2024-07-11 at 16 26 38_88ddb3fe](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0566ad89-4240-4021-9d5f-ee078dd50e89)    
 
-Link: https://gpadads.mystrikingly.com/
+## Link: https://gpadads.mystrikingly.com/
 
 
 # Project Overview diagram 
@@ -48,6 +48,6 @@ Link: https://gpadads.mystrikingly.com/
 ![mohamed osama](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/48b02022-c6b7-4647-80c3-f2934f8175f5)
 
 
-We're thrilled to have scored an # A on our graduation project! This success has us eagerly anticipating our next steps and future accomplishments.
+# We're thrilled to have scored an # A on our graduation project! This success has us eagerly anticipating our next steps and future accomplishments.
 
 ![WhatsApp Image 2024-07-11 at 16 59 59_60603e8b](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/c8be83d6-0503-4b35-893c-a8f961d96a7d)
