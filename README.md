@@ -19,12 +19,14 @@ The primary motivation behind this project is the global threat posed by road ac
 ![WhatsApp Image 2024-07-04 at 21 29 49_7f310e0c](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/ade16b3b-7aa3-4c0f-a86e-cd6c0e6994f4)
 
 
-# Early Prototype Demo 
-
-
-
 # Project Overview Website.
 
+![WhatsApp Image 2024-07-11 at 16 26 38_88ddb3fe](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0566ad89-4240-4021-9d5f-ee078dd50e89)
+
+
+# Project Overview diagram 
+
+![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0715639b-8a49-4df6-bda0-0c9af2db99c9)
 
 
 
