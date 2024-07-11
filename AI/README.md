@@ -1,4 +1,4 @@
-## AI-based Object Detection and Lane Detection for ADAS using Embedded Linux
+## AI Object Detection 
 
 This Partion contains the files and code related to the AI-based object detection and lane detection components of our graduation project on Advanced Driver Assistance Systems (ADAS) using Embedded Linux, with support from Valeo. These components aim to enhance vehicle safety by detecting objects and identifying lane boundaries. Feel free to explore the repository for the specific files and code related to these functionalities.
 
