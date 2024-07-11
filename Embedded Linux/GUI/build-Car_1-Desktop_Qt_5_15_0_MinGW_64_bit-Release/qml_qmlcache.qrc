@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../Car-Dashboard-2-main/main.qml</file>
+        <file alias="assets/Dashboard.svg">../Car-Dashboard-2-main/assets/Dashboard.svg</file>
+        <file alias="assets/Vector 70.svg">../Car-Dashboard-2-main/assets/Vector 70.svg</file>
+        <file alias="assets/Low beam headlights.svg">../Car-Dashboard-2-main/assets/Low beam headlights.svg</file>
+        <file alias="assets/Vector 1.svg">../Car-Dashboard-2-main/assets/Vector 1.svg</file>
+        <file alias="assets/Vector 2.svg">../Car-Dashboard-2-main/assets/Vector 2.svg</file>
+        <file alias="assets/FirstRightIcon.svg">../Car-Dashboard-2-main/assets/FirstRightIcon.svg</file>
+        <file alias="assets/FourthRightIcon.svg">../Car-Dashboard-2-main/assets/FourthRightIcon.svg</file>
+        <file alias="assets/Lights.svg">../Car-Dashboard-2-main/assets/Lights.svg</file>
+        <file alias="assets/Parking lights.svg">../Car-Dashboard-2-main/assets/Parking lights.svg</file>
+        <file alias="assets/Rare fog lights.svg">../Car-Dashboard-2-main/assets/Rare fog lights.svg</file>
+        <file alias="assets/SecondRightIcon.svg">../Car-Dashboard-2-main/assets/SecondRightIcon.svg</file>
+        <file alias="assets/thirdRightIcon.svg">../Car-Dashboard-2-main/assets/thirdRightIcon.svg</file>
+        <file alias="assets/car.png">../Car-Dashboard-2-main/assets/car.png</file>
+        <file alias="assets/fuel.svg">../Car-Dashboard-2-main/assets/fuel.svg</file>
+        <file alias="assets/road.svg">../Car-Dashboard-2-main/assets/road.svg</file>
+        <file alias="assets/speedometer.svg">../Car-Dashboard-2-main/assets/speedometer.svg</file>
+        <file alias="Gauge.qml">../Car-Dashboard-2-main/Gauge.qml</file>
+        <file alias="assets/background.png">../Car-Dashboard-2-main/assets/background.png</file>
+        <file alias="assets/background.svg">../Car-Dashboard-2-main/assets/background.svg</file>
+        <file alias="assets/needle.svg">../Car-Dashboard-2-main/assets/needle.svg</file>
+        <file alias="assets/tickmark.svg">../Car-Dashboard-2-main/assets/tickmark.svg</file>
+        <file alias="assets/newcar.svg">../Car-Dashboard-2-main/assets/newcar.svg</file>
+        <file alias="assets/Car.svg">../Car-Dashboard-2-main/assets/Car.svg</file>
+        <file alias="assets/Model 3.svg">../Car-Dashboard-2-main/assets/Model 3.svg</file>
+        <file alias="assets/Model 3.png">../Car-Dashboard-2-main/assets/Model 3.png</file>
+        <file alias="assets/Light_White.svg">../Car-Dashboard-2-main/assets/Light_White.svg</file>
+        <file alias="assets/Parking_lights_white.svg">../Car-Dashboard-2-main/assets/Parking_lights_white.svg</file>
+        <file alias="assets/Low_beam_headlights_white.svg">../Car-Dashboard-2-main/assets/Low_beam_headlights_white.svg</file>
+        <file alias="assets/Rare_fog_lights_red.svg">../Car-Dashboard-2-main/assets/Rare_fog_lights_red.svg</file>
+        <file alias="assets/FirstRightIcon_grey.svg">../Car-Dashboard-2-main/assets/FirstRightIcon_grey.svg</file>
+        <file alias="assets/SecondRightIcon_red.svg">../Car-Dashboard-2-main/assets/SecondRightIcon_red.svg</file>
+        <file alias="assets/thirdRightIcon_red.svg">../Car-Dashboard-2-main/assets/thirdRightIcon_red.svg</file>
+        <file alias="assets/FourthRightIcon_red.svg">../Car-Dashboard-2-main/assets/FourthRightIcon_red.svg</file>
+    </qresource>
+</RCC>
