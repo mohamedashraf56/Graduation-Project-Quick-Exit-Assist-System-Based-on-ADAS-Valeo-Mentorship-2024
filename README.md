@@ -31,7 +31,9 @@ The primary motivation behind this project is the global threat posed by road ac
 ![image](https://github.com/mohamedashraf56/GP-ADAS-Using-Embedded-Linux/assets/110823285/0715639b-8a49-4df6-bda0-0c9af2db99c9)
 
 
+# Early Demo Prototype Video 
 
+https://drive.google.com/file/d/1hBVOs77UVqFtAuO3Ie9uEbpaDgG7v0hE/view?usp=sharing
 
 ## Supervisors 
  ## A.Prof Ahmed Magdy 
